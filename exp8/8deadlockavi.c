@@ -68,7 +68,6 @@ for(i=1; i<=nr; i++)
    printf("R%d %d\t", i, av[0][i]);
 printf("\n____________");
 printf("\n safe sequence");
-                                                   75
 
     for(count=1; count<=np; count++)
     {
